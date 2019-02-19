@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "dega-gateway"
+    ],
+    "directoryPath": "../",
+    "clusteredDbApps": [],
+    "serviceDiscoveryType": "consul",
+    "jwtSecretKey": "YjE1YzI4NTM0ZWU3NjM0MTA4OTNkZDRjNmRhYzc3NTg1Y2E2MmM4NzNlMjYxZGRjNDEzNmE4NzlkYzFlNjE3NTViMjY2Yzg5MWI3MDk3MzY3NmRkYzc0MTJhMDg2YTM2ZjViYg==",
+    "dockerRepositoryName": "factly",
+    "dockerPushCommand": "docker push",
+    "kubernetesNamespace": "default",
+    "kubernetesServiceType": "LoadBalancer",
+    "monitoring": "no",
+    "istio": "no",
+    "istioRoute": false
+  }
+}
